@@ -32,7 +32,7 @@ It extracts MFCC features from audio files and uses a Decision Tree Classifier t
 
  ✅ 7. Deployment
 Deployed on Hugging Face Spaces:
-https://huggingface.co/spaces/shivankul2003/treesound(click here to try the app)
+https://huggingface.co/spaces/shivankul2003/treesound  (click here to try the app)
 
 ✅ 8. Project Structure
 ├── app.py
