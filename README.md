@@ -5,21 +5,21 @@ This project classifies tree species based on their recorded sound using Machine
 It extracts MFCC features from audio files and uses a Decision Tree Classifier to predict the tree type.
 
 ✅ 3. Tech Stack
-- Python 3.10
-- Scikit-learn (1.6.1)
-- Librosa (0.11.0)
-- Joblib (1.5.1)
-- Gradio (4.21.0)
+-* Python 3.10
+-* Scikit-learn (1.6.1)
+-* Librosa (0.11.0)
+-* Joblib (1.5.1)
+-* Gradio (4.21.0)
 
 - ✅ 4. Features
-Upload a tree sound (.wav)
-Predicts tree species (Ashok, Neem, Mango, Coconut, Palm, Peepal)
-Simple web interface (Gradio)
-Hugging Face Spaces deployment
+* Upload a tree sound (.wav)
+* Predicts tree species (Ashok, Neem, Mango, Coconut, Palm, Peepal)
+* Simple web interface (Gradio)
+* Hugging Face Spaces deployment
 
 ✅ 5. Dataset
-Custom recorded audio samples for:
-Ashok, Neem, Mango, Coconut, Palm, Peepal
+* Custom recorded audio samples for:
+* Ashok, Neem, Mango, Coconut, Palm, Peepal
 
 ✅ 6.Installation & Run Locally
 1. Clone the Repository
